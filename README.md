@@ -2,22 +2,6 @@
   <img src="./assets/warm-banner.png" width="100%" alt="温暖的窗边书桌、绿植和熟睡的猫。做一些有趣且有用的事。">
 </p>
 
-<h2 align="center">你好，我是陈嘉逸 🌿</h2>
-
-<p align="center"><strong>AI Product Manager · Roour Chen</strong></p>
-
-<p align="center">用产品思考连接 AI 与人，把想法变成简单、实用、有温度的工具。</p>
-
-<p align="center">
-  <a href="https://roourchen.github.io/RoourChen-website/">🍃 逛逛我的个人网站</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/RoourChen?tab=repositories">📂 查看全部仓库</a>
-  &nbsp; · &nbsp;
-  WeChat：<code>Rouroo_Chen</code>
-</p>
-
----
-
 ### ☕ 一点关于我
 
 我关心 AI 能做什么，也关心它是否真的好用。这里记录我围绕 **AI 应用、产品工具、学习与工作流** 的公开实践。
